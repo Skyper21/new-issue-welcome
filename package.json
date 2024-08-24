@@ -13,7 +13,7 @@
     "standard": "^12.0.1"
   },
   "engines": {
-    "node": ">= 8.0.0",
+    "node": ">= 9.0.0",
     "npm": ">= 4.0.0"
   },
   "scripts": {
@@ -28,3 +28,4 @@
   "author": "hiimbex",
   "license": "ISC"
 }
+
